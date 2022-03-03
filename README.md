@@ -36,7 +36,7 @@ Happy coding.
   align="left"
   alt="Polri"
   width="26px"
-  src="https://uploads-ssl.webflow.com/5ed5e0e26170c9f29605b0f2/5ef336d052537ca57ee99d51_%5BLogo%5DTIKPOLRI.png"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
 />
 <img
   align="left"
