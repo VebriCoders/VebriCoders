@@ -8,7 +8,7 @@
   height="350"
 />
 
-## I'm a programmer and help desk ! 
+## I'm a programmer and computer help desk ! 
 
 I'm a hobby programmer, my main skill is help desk, I'm coding, not for sale or for making people. 
 I am coding to fill my spare time and create some useful coding programs for me and some people around me. 
