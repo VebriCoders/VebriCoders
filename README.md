@@ -19,7 +19,7 @@ Happy coding.
 - I want to collaborate in government agencies
 - Ask about the coding I discussed on youtube "Vebri Pradana"
 - How to contact me direct message instagram (@bri_vebri)
-- My dream is to be able to work in the Indonesian National Police DIV TI
+- My dream is to be able to work in the Indonesian National Police DIV TIK
 
 <br />
 
