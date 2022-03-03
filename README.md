@@ -35,7 +35,7 @@ Happy coding.
 <img
   align="left"
   alt="Polri"
-  width="26px"
+  width="36px"
   src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
 />
 <img
