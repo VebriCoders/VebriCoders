@@ -3,7 +3,7 @@
 <img
   align="right"
   alt="GIF"
-  src="https://raw.githubusercontent.com/dwinuray/dwinuray/main/kay2hhc3-unscreen.gif?raw=true"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
   width="350"
   height="350"
 />
