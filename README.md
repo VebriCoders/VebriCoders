@@ -14,12 +14,12 @@ I'm a hobby programmer, my main skill is help desk, I'm coding, not for sale or 
 I am coding to fill my spare time and create some useful coding programs for me and some people around me. 
 Happy coding.
 
-- I'm currently working on personal and community projects around me
-- I'm learning php codeigntier
-- I want to collaborate in government agencies
-- Ask about the coding I discussed on youtube "Vebri Pradana"
-- How to contact me direct message instagram (@bri_vebri)
-- My dream is to be able to work in the Indonesian National Police DIV TIK
+- 🌝 I'm currently working on personal and community projects around me
+- 😉 I'm learning php codeigntier
+- 😍 I want to collaborate in government agencies
+- 😊 Ask about the coding I discussed on youtube "Vebri Pradana"
+- 👌 How to contact me direct message instagram (@bri_vebri)
+- 💫 My dream is to be able to work in the Indonesian National Police DIV TIK
 
 <br />
 
