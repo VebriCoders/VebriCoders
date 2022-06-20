@@ -25,8 +25,8 @@ Happy coding.
   align="center"
   alt="GIF"
   src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/IMG_20210627_213321.jpg?raw=true"
-  width="350"
-  height="350"
+  width="357"
+  height="208"
 />
 
 <br />
