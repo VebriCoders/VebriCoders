@@ -43,7 +43,7 @@ Happy coding.
 <img
   align="left"
   alt="Visual Studio Code"
-  width="26px"
+  width="34px"
   src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Pussansiad.png"
 />
 <img
