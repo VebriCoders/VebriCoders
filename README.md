@@ -19,7 +19,7 @@ Happy coding.
 - 😍 I want to collaborate in government agencies
 - 😊 Ask about the coding I discussed on youtube "Vebri Pradana"
 - 👌 How to contact me direct message instagram (@bri_vebri)
-- 💫 My dream is to be able to work at Markas Besar TNI - AD Staff Computer & Technology Information
+- 💫 My dream is to be able to work at Headquarter TNI - AD Staff Computer & Technology Information
 
 <img
   align="center"
@@ -38,7 +38,7 @@ Happy coding.
   align="left"
   alt="Visual Studio Code"
   width="26px"
-  src="https://polri.go.id/webpolri/assets/img/others/logo-polri.png"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/TNIAD.png?raw=true"
 />
 <img
   align="left"
