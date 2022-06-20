@@ -7,6 +7,13 @@
   width="175"
   height="225"
 />
+<img
+  align="right"
+  alt="GIF"
+  src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Lambang_Pussansiad.png"
+  width="175"
+  height="225"
+/>
 
 ## I'm a programmer and computer help desk ! 
 
