@@ -21,6 +21,14 @@ Happy coding.
 - 👌 How to contact me direct message instagram (@bri_vebri)
 - 💫 My dream is to be able to work at Markas Besar TNI - AD Staff Computer & Technology Information
 
+<img
+  align="center"
+  alt="GIF"
+  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/IMG_20210627_213321.jpg?raw=true"
+  width="350"
+  height="350"
+/>
+
 <br />
 
 ### DREAM & SKILL & TOOLS:
@@ -31,12 +39,6 @@ Happy coding.
   alt="Visual Studio Code"
   width="26px"
   src="https://polri.go.id/webpolri/assets/img/others/logo-polri.png"
-/>
-<img
-  align="left"
-  alt="Polri"
-  width="26px"
-  src="https://raw.githubusercontent.com/VebriCoders/VebriCoders/main/tik-unscreen.gif?raw=true"
 />
 <img
   align="left"
