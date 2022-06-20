@@ -26,7 +26,7 @@ Happy coding.
 - 😍 I want to collaborate in government agencies
 - 😊 Ask about the coding I discussed on youtube "Vebri Pradana"
 - 👌 How to contact me direct message instagram (@bri_pebri) & (bri_pebry)
-- 💫 My dream is to be able to work at Headquarter TNI - AD Staff Computer & Technology Information
+- 💫 My dream is to be able to work at Headquarter TNI - AD Staff Computer & Technology Information (Pussansiad - PUSAT SANDI DAN SIBER TNI AD)
 
 <img
   align="center"
