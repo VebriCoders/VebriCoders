@@ -14,6 +14,14 @@
   width="175"
   height="225"
 />
+/>
+<img
+  align="right"
+  alt="GIF"
+  src="https://upload.wikimedia.org/wikipedia/id/thumb/b/b6/Logo_Dinas_Informasi_dan_Pengolahan_Data_Angkatan_Darat.jpg/375px-Logo_Dinas_Informasi_dan_Pengolahan_Data_Angkatan_Darat.jpg"
+  width="175"
+  height="225"
+/>
 
 ## I'm a programmer and computer help desk ! 
 
